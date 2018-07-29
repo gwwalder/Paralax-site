@@ -1,0 +1,114 @@
+.color{
+     background-color: white;
+}
+ .topText{
+     font-family: 'Nanum Gothic', sans-serif;
+     text-align: center;
+     color: white;
+     position: absolute;
+     top: 25%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     filter: opacity(50);
+     background: rgba(134, 130, 130, 0.5);
+     padding-left: 1em;
+     padding-right: 1em;
+     padding-top: 1em;
+     padding-bottom: 0.5em;
+     border-radius: 25px
+}
+ .logo{
+     position:absolute;
+     left:1em;
+     top:1em;
+}
+ .parallax{
+     background-image: url("img/grey.jpg");
+     background-color: #339999;
+     height: 500px;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat;
+     background-size: cover;
+     text-align: center;
+}
+ .intro{
+     position: relative;
+}
+ .introText{
+     font-family: 'Nanum Gothic', sans-serif;
+     position: absolute;
+     top: 20px;
+     left: 20px;
+     color: white;
+     padding-left: 20px;
+     padding-right: 20px;
+}
+ .introImg{
+     filter: brightness(50%);
+}
+ .parallax2{
+     background-image: url("img/ski.gif");
+     height: 500px;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat;
+     background-size: cover;
+     text-align: center;
+}
+ .coffee{
+     position: relative;
+}
+ .coffeeText{
+     font-family: 'Nanum Gothic', sans-serif;
+     position: absolute;
+     top: 20px;
+     left: 20px;
+     color:#4a4a4a ;
+     padding-left: 20px;
+     padding-right: 20px;
+}
+ .parallax3{
+     background-image: url("img/bg2.jpg");
+     height: 500px;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat;
+     background-size: cover;
+     text-align: center;
+}
+ .energy{
+     position: relative;
+}
+ .energyText{
+     font-family: 'Nanum Gothic', sans-serif;
+     position: absolute;
+     top: 20px;
+     left: 20px;
+     color:#565656;
+     padding-left: 20px;
+     padding-right: 20px;
+}
+ .parallax4{
+     background-image: url("img/find.jpg");
+     height: 500px;
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat;
+     background-size: cover;
+}
+ .map{
+     padding-top: 5em;
+     padding-left: 1em;
+     padding-right: 1em;
+     padding-bottom: 5em;
+}
+ .mapText{
+     color:#565656;
+     padding-top: 5em;
+     text-align:center;
+}
+ .closing{
+     text-align:center;
+     padding-top;
+}
